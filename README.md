@@ -1,2 +1,2 @@
-# iSDC-P2-Translate-Python-Cpp
-Repository for P2 of iSDC - Translate Python to C++
+# 2D Histogram Filter with C++
+Translate 'sense' and 'localize' functions from Python to C++
